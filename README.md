@@ -1,6 +1,6 @@
-# Question: What is the relationship between weather and homelessness in the top 20 largest metropolitan cities?
+# Question: What is the relationship between weather and homelessness in 20 of the largest populated metropolitan cities?
 
-Initially, we will collect the top 20 metropolitan cities, and draw data on the total homeless population based on the county that they preside in from the years 2014 to 2015. This data will come from a csvfile and be presented using a bar graph for each county.
+Initially, we will collect the 20 out of the top 50 largest populated metropolitan cities, and draw data on the total homeless population based on the county that they preside in from the years 2014 to 2015. This data will come from a csvfile and be presented using a bar graph for each county.
 
 Homelessness per capita will then be calculated using total homeless individuals over total population of selected the respective county.
 
