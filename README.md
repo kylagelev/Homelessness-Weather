@@ -6,14 +6,14 @@ Initially, we collected 20 out of the top 50 largest populated metropolitan citi
 
 We decided upon using 2014 data specifically to represent our data as the small change in homelessness from 2014 to 2015 we assessed to be negligible. 
 
-We first answered the question: is our sample weather data heterogenous enough to use?
+# We first answered the question: is our sample weather data heterogenous enough to use?
 Using a boxplot, and configuring the median temperature for each county, we found that our temperatures were spread out enough to assess the possibility of correlation with homelessness rate. 
 
-Our following question had to do with what the population and homelessness per capita is? 
+# Our following question had to do with what the population and homelessness per capita is? 
 Using an estimated population projection from the 2010 census, we represented the population for 2014 using a bar graph. We also used a bar graph to represent 2014 total homelessness in each county.
 
-From there we assessed: is there a difference in homelessness per county across counties?
+# From there we assessed: is there a difference in homelessness per county across counties?
 To do this, we calculated homelessness per capita using total homeless individuals over total population of selected respective county. Then, we used a pie graph to represent these values, providing a preliminary idea on whether our hypothesis may or may not be true. 
 
-Our final question was: is there correlation between weather and homelessness rate?
+# Our final question was: is there correlation between weather and homelessness rate?
 Using both data with and without outliers (outliers were found using boxplot analysis), we created scatterplots to compare the difference in temperatures and total homeless per capita to see if there was significant correlation between these two factors. We found that there was little to no correlation for either plot, indicating that our hypothesis was false.
