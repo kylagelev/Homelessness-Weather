@@ -9,11 +9,11 @@ We decided upon using 2014 data specifically to represent our data as the small 
 ## Is our sample weather data heterogenous enough to use?
 Using a boxplot, and configuring the median temperature for each county, we found that our temperatures were spread out enough to assess the possibility of correlation with homelessness rate. 
 
-# What is the population and homelessness per capita? 
+## What is the population and homelessness per capita? 
 Using an estimated population projection from the 2010 census, we represented the population for 2014 using a bar graph. We also used a bar graph to represent 2014 total homelessness in each county.
 
-# Is there a difference in homelessness per county across counties?
+## Is there a difference in homelessness per county across counties?
 To do this, we calculated homelessness per capita using total homeless individuals over total population of selected respective county. Then, we used a pie graph to represent these values, providing a preliminary idea on whether our hypothesis may or may not be true. 
 
-# Is there correlation between weather and homelessness rate?
+## Is there correlation between weather and homelessness rate?
 Using both data with and without outliers (outliers were found using boxplot analysis), we created scatterplots to compare the difference in temperatures and total homeless per capita to see if there was significant correlation between these two factors. We found that there was little to no correlation for either plot, indicating that our hypothesis was false.
