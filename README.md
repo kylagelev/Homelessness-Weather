@@ -4,7 +4,7 @@ Hypothesis: IF the weather is warmer than average in a major U.S. metropolitan c
 
 Initially, we collected 20 out of the top 50 largest populated metropolitan cities, and drew data on the total homeless population based on the county that they preside in from the years 2014 to 2015. This data came from a series of csvfile.
 
-We decided upon using 2014 data specifically to represent our data as the small change in homelessness from 2014 to 2015 we assessed to negligible. 
+We decided upon using 2014 data specifically to represent our data as the small change in homelessness from 2014 to 2015 we assessed to be negligible. 
 
 We first answered the question: is our sample weather data heterogenous enough to use?
 Using a boxplot, and configuring the median temperature for each county, we found that our temperatures were spread out enough to assess the possibility of correlation with homelessness rate. 
