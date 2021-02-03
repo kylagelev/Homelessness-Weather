@@ -12,9 +12,8 @@ Using a boxplot, and configuring the median temperature for each county, we foun
 Our following question had to do with what the population and homelessness per capita is? 
 Using an estimated population projection from the 2010 census, we represented the population for 2014 using a bar graph. We also used a bar graph to represent 2014 total homelessness in each county.
 
-We then calculated homelessness per capita using total homeless individuals over total population of selected respective county. 
-
-From there we assessed if there is a difference in homelessness per county across capitals to ensure, like we did for the weather data, that there was hetergenous data. Using a pie graph to represent the difference in county population and total homeless individuals, we assessed that it showed enough differences in homelessness to compare with weather.
+From there we assessed: is there a difference in homelessness per county across counties?
+We calculated homelessness per capita using total homeless individuals over total population of selected respective county. We used a pie graph to represent the difference in county population and total homeless individuals. 
 
 Our final question was: is there correlation between weather and homelessness rate?
 Using both data with and without outliers (outliers were found using boxplot analysis), we created scatterplots to compare the difference in temperatures and total homeless per capita to see if there was significant correlation between these two factors. We found that there was little to no correlation for either plot, indicating that our hypothesis was false.
