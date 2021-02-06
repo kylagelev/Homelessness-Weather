@@ -21,7 +21,7 @@ Using both data with and without outliers (outliers were found using boxplot ana
 ## Table of Contents:
 
 
-Folders:
+## Folders:
     -County_Weather: Contains weather CSVs
         -CSV for each county's weather data
         -Weather_Summary CSVs: Contain summary statistics of all county weather (mean, median, min, max, etc.)
@@ -33,4 +33,12 @@ Folders:
     -Figures: Contains all figure outputs
     -Jupyter_Notebooks: Contains notebooks used for graphs and figures
 
+## Files:
+    -Master_Summary csv: summary of all weather, population and homelessness population data
+    -Census Population: contains census population data 
+    -Homeless csv: contains all homeless population data broken down by county
+    -Homelessness_Count_USA: Contains all homelessness data for every county in USA
+    -counties_list: List of cities we chose to target, their associated state and county
+    -county_population.csv: population estimates for each county 
+    
           
