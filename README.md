@@ -17,3 +17,20 @@ To do this, we calculated homelessness per capita using total homeless individua
 
 ## Is there correlation between weather and homelessness rate?
 Using both data with and without outliers (outliers were found using boxplot analysis), we created scatterplots to compare the difference in temperatures and total homeless per capita to see if there was significant correlation between these two factors. We found that there was little to no correlation for either plot, indicating that our hypothesis was false.
+
+## Table of Contents:
+
+
+Folders:
+    -County_Weather: Contains weather CSVs
+        -CSV for each county's weather data
+        -Weather_Summary CSVs: Contain summary statistics of all county weather (mean, median, min, max, etc.)
+        -All_Temps CSVs: Contain every hourly temperature measurement for every county
+    -Data_Cleaning: Contains data cleaning notebooks
+        -All_Temp_Measurements notebooks: for loop notebook gathering and cleaning every hourly temperature measurement for each county
+        -Final_Data_Cleaning: for loop notebook gathering and cleaning summary weather measurements for each county 
+        -Master DataFrame: Contains weather summary data as well as population data and homeless population data. Calculates rate of homelessness in each county
+    -Figures: Contains all figure outputs
+    -Jupyter_Notebooks: Contains notebooks used for graphs and figures
+
+          
